@@ -1,0 +1,12 @@
+section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box {
+    height: 243px;
+    width: 243px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
